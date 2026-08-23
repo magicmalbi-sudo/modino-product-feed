@@ -11,7 +11,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-36</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -22,7 +22,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-16</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -44,18 +44,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-25</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>kubiyat-keshev-verikuz</g:id>
-      <title>קוביית קשב וריכוז - קוביית הקסם - מודינו</title>
-      <link>https://modino.co.il/products/kubiyat-keshev-verikuz</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
-      <g:price>49.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -77,7 +66,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -88,7 +77,18 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>kubiyat-keshev-verikuz</g:id>
+      <title>קוביית קשב וריכוז - קוביית הקסם - מודינו</title>
+      <link>https://modino.co.il/products/kubiyat-keshev-verikuz</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9903244.png?v=1785808337</g:image_link>
+      <g:price>49.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -99,7 +99,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dvr-hksm-hmvff-402539.jpg?v=1731490507</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-151</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -110,7 +110,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/rt-gl-hksm-iirh-mhnh-bvnit-vmlat-dmiv-lildim-3722062.jpg?v=1765910589</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-236</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -121,7 +121,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/rt-gl-hksm-iirh-mhnh-bvnit-vmlat-dmiv-lildim-3722062.jpg?v=1765910589</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-18</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -132,7 +132,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/rt-gl-hksm-iirh-mhnh-bvnit-vmlat-dmiv-lildim-3722062.jpg?v=1765910589</g:image_link>
       <g:price>249.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -143,7 +143,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7144491.png?v=1782482649</g:image_link>
       <g:price>39.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -198,7 +198,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/arizt-mtnh-677109.png?v=1731490499</g:image_link>
       <g:price>12.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-494</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -209,7 +209,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fazl-mklvt-mvnsvri-282267.webp?v=1731490554</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-24</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -220,7 +220,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-4605132.png?v=1782825188</g:image_link>
       <g:price>79.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-24</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -231,7 +231,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/64-4733942.png?v=1786463108</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-178</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -242,7 +242,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-8704067.png?v=1782825190</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-423</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -264,7 +264,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/si-bvbt-lvmvt-nvshmt-236703.jpg?v=1731490513</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-39</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -275,7 +275,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bvbt-lvmvt-nvshmt-fil-553020.jpg?v=1731673957</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -286,7 +286,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bvbt-lvmvt-nvshmt-kvalh-714038.jpg?v=1731767612</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-9</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -297,7 +297,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bvbt-lvmvt-nvshmt-dvbi-744611.jpg?v=1731767608</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -330,7 +330,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/kvbiit-fazl-shibh-605690.webp?v=1741612614</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-14</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -341,7 +341,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-8677663.png?v=1783902430</g:image_link>
       <g:price>29.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -352,7 +352,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7616139.png?v=1786379890</g:image_link>
       <g:price>20.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-24</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -363,7 +363,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1239943.png?v=1782825189</g:image_link>
       <g:price>39.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-29</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -374,7 +374,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1974023.png?v=1782825189</g:image_link>
       <g:price>39.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-30</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -396,7 +396,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mshk-shibh-rh-alsit-882071.webp?v=1731937664</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-9</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -407,7 +407,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mgnim-htamt-vrvt-mvnsri-673836.jpg?v=1731937665</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-36</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -429,7 +429,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/rt-milvi-l-hksm-6329147.png?v=1766656328</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-234</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -440,7 +440,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1549041.png?v=1783322290</g:image_link>
       <g:price>169.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-66</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -473,7 +473,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/si-vrvd-bvbt-hlvmvt-hnvshmt-691476.png?v=1736411407</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-16</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -484,7 +484,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/vbrt-ivr-l-hksm-tnv-iim-livrim-729888.jpg?v=1736825627</g:image_link>
       <g:price>39.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-217</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -517,7 +517,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/100-8897320.png?v=1785925989</g:image_link>
       <g:price>128.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1142</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -528,7 +528,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/figd-mgni-kshb-vrivz-736444.png?v=1739875676</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-166</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -561,7 +561,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-miniavrit-lhrftkh-mlah-bdmiv-897850.png?v=1764761458</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-28</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -572,7 +572,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-miniavrit-lhrftkh-mlah-bdmiv-897850.png?v=1764761458</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-25</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -583,7 +583,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-miniavrit-lhrftkh-mlah-bdmiv-897850.png?v=1764761458</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-15</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -605,7 +605,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-miniavrit-lhrftkh-mlah-bdmiv-897850.png?v=1764761458</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -616,7 +616,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-miniavrit-lhrftkh-mlah-bdmiv-897850.png?v=1764761458</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -627,7 +627,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/s-mdbkvt-miinkraf-476168.jpg?v=1740124296</g:image_link>
       <g:price>19.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-25</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -638,7 +638,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/miinkraf-svfr-mriv-150-kvbivt-mgnivt-108698.png?v=1740704280</g:image_link>
       <g:price>219.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-129</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -649,7 +649,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/lv-hksm-lv-ivr-mvar-vll-vshim-800981.png?v=1749139526</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-171</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -671,7 +671,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3358260.png?v=1782825189</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-28</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -682,7 +682,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbvt-frvvh-rmndr-20-sm-810894.webp?v=1741532905</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -693,7 +693,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbvt-frvvh-fkiv-25-sm-copy-541837.webp?v=1741532905</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -704,7 +704,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbvt-frvvh-skvvirl-25-sm-933544.webp?v=1741615852</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -715,7 +715,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbt-frvvh-snvrlks-25-sm-131591.webp?v=1741615851</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -726,7 +726,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbt-frvvh-blbzvr-25-sm-799727.webp?v=1741615851</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -737,7 +737,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbt-frvvh-aibi-25-sm-679449.jpg?v=1741615851</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -748,7 +748,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbt-frvvh-gngr-30-sm-926030.jpg?v=1741615850</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -759,7 +759,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbt-frvvh-giglfaf-30-sm-538295.jpg?v=1741615850</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -770,7 +770,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/fvkimv-bvbvt-frvvh-fsidk-25-sm-317375.jpg?v=1741615850</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -781,7 +781,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/si-vrvd-bvbh-nkit-866547.png?v=1742278604</g:image_link>
       <g:price>189.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -803,7 +803,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/gint-hksmim-rh-mvnsvrit-lgidvl-frim-lildim-224-lkim-200260.jpg?v=1747408465</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-126</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -814,7 +814,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/miinkraf-bvb-sfvg-879219.png?v=1744748276</g:image_link>
       <g:price>179.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-92</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -825,7 +825,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bii-mvnsvri-bvnivt-lfvvt-v-lmidh-lgil-13-lfitv-vrvt-bim-vkvavrdinih-351383.png?v=1746323669</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -836,7 +836,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/miinkraf-20-iidvt-kvbivt-mgnivt-aivtivt-682903.png?v=1748349926</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-20</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -847,7 +847,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/110-5857904.png?v=1785937223</g:image_link>
       <g:price>219.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-23</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -858,7 +858,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/80-7227297.png?v=1785937524</g:image_link>
       <g:price>185.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -869,7 +869,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/100-9010717.png?v=1785928809</g:image_link>
       <g:price>219.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-13</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -880,7 +880,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/100-1063390.png?v=1785937936</g:image_link>
       <g:price>219.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-24</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -891,7 +891,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-mivdt-krifr-290998.png?v=1747408462</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -902,7 +902,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-mivdt-sib-887053.png?v=1747408463</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -913,7 +913,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-mivdt-zvmbi-674155.png?v=1747408462</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -924,7 +924,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/dmvt-miinkraf-mivdt-blaksmi-500063.png?v=1747408464</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -935,106 +935,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/c8dec639b5d50b6fffe75839f6de5c0d.png?v=1747410535</g:image_link>
       <g:price>15.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-656</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
       <g:quantity>0</g:quantity>
-      <g:product_type></g:product_type>
-      <g:condition>new</g:condition>
-    </item>
-    <item>
-      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
-      <title>סט פיג'מה לצביעה</title>
-      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
-      <g:price>149.00 ILS</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1089,7 +990,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1166,7 +1067,40 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1221,7 +1155,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1232,7 +1166,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1243,7 +1177,73 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
+      <g:product_type></g:product_type>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>סט-פיגמת-קיץ-לצביעה</g:id>
+      <title>סט פיג'מה לצביעה</title>
+      <link>https://modino.co.il/products/סט-פיגמת-קיץ-לצביעה</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/b20ade52abf6e7504b21a007b04282c265f2a466-1100_720x_7fa94ec0-36f0-4002-99c1-37dca066548b.gif?v=1747572459</g:image_link>
+      <g:price>149.00 ILS</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1254,7 +1254,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/miinkraf-bkbvk-mim-aivti-650-ml-4084243.png?v=1753303420</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1265,7 +1265,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/449540_black_l.avif?v=1753261332</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-75</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1298,7 +1298,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bvbt-lbvbv-hmflvt-985774.png?v=1750057112</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1309,7 +1309,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/192-3386787.png?v=1786049409</g:image_link>
       <g:price>289.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-21</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1320,7 +1320,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/hgibvrim-shl-vlm-hmiinkraf-6-dmvivt-ksvmvt-2104552.png?v=1752557359</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-686</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1331,7 +1331,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/hgibvrim-shl-mriv-6-dmvivt-ksvmvt-5573246.png?v=1752557360</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-63</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1353,7 +1353,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/650-7932351.jpg?v=1787125687</g:image_link>
       <g:price>89.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1364,7 +1364,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/tik-gb-si-2017087.png?v=1753303421</g:image_link>
       <g:price>189.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-16</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1375,7 +1375,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/455906_turquoise_l.avif?v=1753262535</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1386,7 +1386,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/384-5263380.png?v=1785939209</g:image_link>
       <g:price>419.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1397,7 +1397,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/448-2528343.png?v=1785940099</g:image_link>
       <g:price>459.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1408,7 +1408,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/554-3215562.png?v=1785929109</g:image_link>
       <g:price>519.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-9</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1419,7 +1419,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/414-3408437.png?v=1785933489</g:image_link>
       <g:price>439.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1430,7 +1430,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/621-7929092.png?v=1785940462</g:image_link>
       <g:price>549.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-20</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1441,7 +1441,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/990-4296075.png?v=1785933909</g:image_link>
       <g:price>699.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1452,7 +1452,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/224-5331635.png?v=1785934628</g:image_link>
       <g:price>299.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-9</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1463,7 +1463,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/355-1165471.png?v=1785935289</g:image_link>
       <g:price>389.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1474,7 +1474,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/184-6302114.png?v=1785935710</g:image_link>
       <g:price>269.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1485,7 +1485,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/538-4919197.png?v=1785936068</g:image_link>
       <g:price>499.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-9</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1496,7 +1496,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/320-7806883.png?v=1785936789</g:image_link>
       <g:price>369.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1507,7 +1507,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-klasi-lildim-dgm-vhr-3356921.webp?v=1761864623</g:image_link>
       <g:price>249.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-20</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1518,7 +1518,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-nk-lildim-alkrvni-dgm-frial-3933733.png?v=1761864625</g:image_link>
       <g:price>579.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1529,7 +1529,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-nk-lildim-alkrvni-dgm-dvri-3749247.png?v=1761864620</g:image_link>
       <g:price>519.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1540,7 +1540,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-klasi-lildim-dgm-lni-9435009.png?v=1761864621</g:image_link>
       <g:price>249.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-34</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1551,7 +1551,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/shidt-aifvr-m-lildim-dgm-shf-9653550.png?v=1761864617</g:image_link>
       <g:price>239.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1562,7 +1562,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-klasi-lildim-dgm-lih-7787853.png?v=1762254110</g:image_link>
       <g:price>159.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1573,7 +1573,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-klasi-lildim-dgm-shrv-1066733.png?v=1761864613</g:image_link>
       <g:price>179.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1584,7 +1584,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bvbt-mvdl-anvmih-shl-gvf-hadm-1944554.png?v=1762426866</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-23</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1595,7 +1595,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mbr-hksm-221-lkim-6716416.png?v=1762426862</g:image_link>
       <g:price>209.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-36</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1606,7 +1606,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mbr-hksm-221-lkim-6716416.png?v=1762426862</g:image_link>
       <g:price>259.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-13</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1617,7 +1617,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mbr-hksm-221-lkim-6716416.png?v=1762426862</g:image_link>
       <g:price>299.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1628,7 +1628,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mbr-hksm-221-lkim-6716416.png?v=1762426862</g:image_link>
       <g:price>359.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1639,7 +1639,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/glgli-hksm-fazl-glgli-shiniim-263-lkim-7822737.png?v=1762797758</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-22</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1650,7 +1650,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/glgli-hksm-fazl-glgli-shiniim-263-lkim-7822737.png?v=1762797758</g:image_link>
       <g:price>239.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-19</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1661,7 +1661,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/glgli-hksm-fazl-glgli-shiniim-263-lkim-7822737.png?v=1762797758</g:image_link>
       <g:price>295.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-22</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1672,7 +1672,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1310547.png?v=1782908003</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-753</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1683,7 +1683,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/shvl-li-bvdh-m-lildim-dgm-alv-2594390.webp?v=1763957774</g:image_link>
       <g:price>140.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-13</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1694,7 +1694,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/hliv-filvt-m-dgm-dnial-8758278.webp?v=1763957773</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-15</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1705,7 +1705,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-4374412.png?v=1782483589</g:image_link>
       <g:price>449.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-21</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1716,7 +1716,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mb-mrhib-lildim-m-dgm-liav-8271566.webp?v=1763957773</g:image_link>
       <g:price>439.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1727,7 +1727,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/msh-filvt-lildim-dgm-dvbi-6656376.webp?v=1763957774</g:image_link>
       <g:price>57.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1738,7 +1738,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/msh-filvt-lfvvt-dgm-filv-4192866.webp?v=1763957774</g:image_link>
       <g:price>57.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1749,7 +1749,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/hliv-filvt-m-dgm-rimv-8479846.webp?v=1763957774</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1760,7 +1760,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mini-rbt-7412581.png?v=1765910525</g:image_link>
       <g:price>35.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4869</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1782,7 +1782,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/192-3302226.png?v=1786048991</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-79</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי מגנטים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1793,7 +1793,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/lah-mfst-l-kirvt-l-shl-5007699.png?v=1765741158</g:image_link>
       <g:price>169.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-27</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1804,7 +1804,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3713928.webp?v=1772125036</g:image_link>
       <g:price>329.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1826,7 +1826,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-5055772.webp?v=1773616628</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-14</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1837,7 +1837,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7667110.webp?v=1773616572</g:image_link>
       <g:price>175.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1848,7 +1848,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-2299210.webp?v=1773616630</g:image_link>
       <g:price>249.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1870,7 +1870,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-9617837.png?v=1786462873</g:image_link>
       <g:price>129.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-53</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1881,7 +1881,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bigale-9537436.webp?v=1781156829</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1914,7 +1914,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-5269195.webp?v=1781156830</g:image_link>
       <g:price>128.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1925,7 +1925,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-2160129.webp?v=1781156829</g:image_link>
       <g:price>179.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1936,7 +1936,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1957568.webp?v=1781156829</g:image_link>
       <g:price>159.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1947,7 +1947,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7814407.webp?v=1781156829</g:image_link>
       <g:price>159.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1958,7 +1958,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bigale-8593141.webp?v=1781156829</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1969,7 +1969,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3668899.webp?v=1781156828</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1980,7 +1980,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/bigale-1213636.webp?v=1781156828</g:image_link>
       <g:price>159.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -1991,7 +1991,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-5077702.png?v=1781819888</g:image_link>
       <g:price>299.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-17</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2090,7 +2090,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7475264.png?v=1782825070</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-12</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2101,7 +2101,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-7043545.png?v=1787042775</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2112,7 +2112,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-6063645.png?v=1782825070</g:image_link>
       <g:price>149.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-11</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2134,7 +2134,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-4336100.png?v=1783073830</g:image_link>
       <g:price>79.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-72</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2145,7 +2145,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-6464230.png?v=1783322231</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-22</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2156,7 +2156,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-6464230.png?v=1783322231</g:image_link>
       <g:price>139.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2167,7 +2167,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/17-9823592.png?v=1784813829</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקים לפעוטות</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2178,7 +2178,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3629276.png?v=1784813829</g:image_link>
       <g:price>60.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>צעצועי קריוקי</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2200,7 +2200,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/76-6106652.png?v=1783653669</g:image_link>
       <g:price>79.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי בנייה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2211,7 +2211,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/400-9158675.png?v=1783902371</g:image_link>
       <g:price>99.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>קונסולות משחק</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2222,7 +2222,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3408111.png?v=1784813829</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חשיבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2233,7 +2233,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-8398575.png?v=1783653670</g:image_link>
       <g:price>179.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מרכזי פעילות לתינוק</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2244,7 +2244,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-1781098.png?v=1783570810</g:image_link>
       <g:price>299.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מוצרי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2255,7 +2255,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/237-4-1-8304427.png?v=1783653670</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי בנייה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2266,7 +2266,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/21721-2-4641515.png?v=1785725168</g:image_link>
       <g:price>250.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2288,7 +2288,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/usb-1661626.png?v=1784813829</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-6</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>צעצועים אינטראקטיביים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2299,7 +2299,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/2-2-5001776.png?v=1784813829</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-8</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חוץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2321,7 +2321,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3790879.jpg?v=1784150894</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>מנורות לילה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2332,7 +2332,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/4000-3360377.png?v=1784813830</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>ערכות יצירה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2343,7 +2343,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-8266375.png?v=1784150895</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי קופסה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2398,7 +2398,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/3-2663654.png?v=1784813829</g:image_link>
       <g:price>199.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>צעצועים אלקטרוניים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2409,7 +2409,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/6-2164328.jpg?v=1784150890</g:image_link>
       <g:price>59.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי קלפים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2420,7 +2420,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/400-9005845.png?v=1784813829</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-7</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>קונסולות משחק</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2431,7 +2431,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-5035988.png?v=1784233872</g:image_link>
       <g:price>119.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-44</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2442,7 +2442,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-4769826.webp?v=1784566162</g:image_link>
       <g:price>79.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-4</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2475,7 +2475,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/32gb-3691808.png?v=1785228069</g:image_link>
       <g:price>50.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>אביזרי מצלמה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2486,7 +2486,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3811685.png?v=1785228069</g:image_link>
       <g:price>30.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-5</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>אביזרי מצלמה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2497,7 +2497,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-3811685.png?v=1785228069</g:image_link>
       <g:price>30.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>אביזרי מצלמה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2508,7 +2508,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/85-6600734.png?v=1785476596</g:image_link>
       <g:price>25.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-10</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>צעצועי סחיטה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2519,7 +2519,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/12-2-6387666.png?v=1785476595</g:image_link>
       <g:price>69.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-2</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי עץ</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2618,7 +2618,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/88-8537540.png?v=1785891019</g:image_link>
       <g:price>165.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-3</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי בנייה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2629,7 +2629,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/pegboard_hero_final.png?v=1785841252</g:image_link>
       <g:price>60.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חשיבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2640,7 +2640,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/48-4308718.png?v=1785891020</g:image_link>
       <g:price>105.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי הרכבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2717,7 +2717,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/500-8386973.png?v=1785891011</g:image_link>
       <g:price>30.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי יצירה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2761,7 +2761,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/product-2848014.png?v=1785891010</g:image_link>
       <g:price>50.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חשיבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2772,7 +2772,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/iq-60-7857457.png?v=1786379827</g:image_link>
       <g:price>45.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חשיבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2783,7 +2783,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/2-9683878.png?v=1786379827</g:image_link>
       <g:price>91.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>משחקי חשיבה</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -2805,7 +2805,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/4-35-70-5906957.png?v=1786462873</g:image_link>
       <g:price>45.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type>פאזלים</g:product_type>
       <g:condition>new</g:condition>
     </item>
@@ -3267,7 +3267,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mvdinv-dvr-hll-563170.jpg?v=1731490507</g:image_link>
       <g:price>49.00 ILS</g:price>
       <g:availability>out of stock</g:availability>
-      <g:quantity>-1</g:quantity>
+      <g:quantity>0</g:quantity>
       <g:product_type></g:product_type>
       <g:condition>new</g:condition>
     </item>
