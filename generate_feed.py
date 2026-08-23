@@ -5,7 +5,7 @@ from xml.sax.saxutils import escape
 import requests
 
 SHOP = os.environ.get("SHOPIFY_STORE_DOMAIN", "6f8ca0-2.myshopify.com")
-TOKEN = os.environ.get("SHOPIFY_ACCESS_TOKEN")
+TOKEN = (os.environ.get("SHOPIFY_ACCESS_TOKEN") or "").strip()
 API_VERSION = "2026-01"
 STORE_URL = "https://modino.co.il"
 
