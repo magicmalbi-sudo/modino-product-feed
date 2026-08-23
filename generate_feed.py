@@ -146,7 +146,7 @@ def build_xml(products):
                 params = []
                 readable_bits = []
                 for opt in v["selectedOptions"]:
-                    attr_name = "attribute_pa_" + opt["name"].strip().lower().replace(" ", "-")
+                    attr_name = "attribute_pa_" + quote(opt["name"].strip().lower().replace(" ", "-"))
                     value_slug = quote(opt["value"].strip().lower().replace(" ", "-"))
                     params.append(f"{attr_name}={value_slug}")
                     readable_bits.append(opt["value"])
