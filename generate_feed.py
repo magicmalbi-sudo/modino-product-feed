@@ -81,7 +81,7 @@ def build_xml(products):
             v = vedge["node"]
             sku = escape(v.get("sku") or handle)
             price = v.get("price", "0.00")
-            qty = v.get("inventoryQuantity") or 0
+            qty = max(0, v.get("inventoryQuantity") or 0)
             availability = (
                 "in stock" if v.get("availableForSale") and qty > 0 else "out of stock"
             )
