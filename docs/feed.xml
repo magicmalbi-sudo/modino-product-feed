@@ -2397,8 +2397,8 @@
     </PRODUCT>
     <PRODUCT>
       <PRODUCT_URL>https://modino.co.il/products/מיני-רכבת</PRODUCT_URL>
-      <PRODUCT_NAME>מיני רכבת</PRODUCT_NAME>
-      <MODEL>מיני רכבת</MODEL>
+      <PRODUCT_NAME>מיני רכבת - תוספת למודינו רייל</PRODUCT_NAME>
+      <MODEL>מיני רכבת - תוספת למודינו רייל</MODEL>
       <DETAILS>קרון מודינו רייל – ההרחבה שהופכת את המשחק לממכר עוד יותר הכירו את הקרון הרשמי של Modino Rail —תוספת קטנה שמכניסה לילדים עולם חדש של משחק. הקרון מתחבר למסלול המגנטי ויכול לנסוע במקביל לרכבת הראשית,ליצור שיירה ארוכה, להוסיף עומסים,ולהפוך כל מסלול לקצבי, חי ותוסס הרבה יותר. למה זה מושלם? 🚄 שתי רכבות על אותו מסלול – יותר עניין, יותר תנועה 🧲 תואם 100% למודינו רייל – מתחבר ומחליק בצורה חלקה 🎭 פותח אפשרויות משחק חדשות – מרוצים, הובלה, בניית “רכבת ארוכה” 👨👧 מתאים לשני ילדים יחד – משחק משותף בלי מריבות 💡</DETAILS>
       <CATALOG_NUMBER>minirail</CATALOG_NUMBER>
       <PRODUCTCODE>47096329994498</PRODUCTCODE>
@@ -6264,6 +6264,78 @@
       <TAX>18</TAX>
       <CATEGORY_ID>432422781186</CATEGORY_ID>
       <CATEGORY_NAME>יצירה לילדים | ערכות יצירה</CATEGORY_NAME>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>https://modino.co.il/products/modular-baby-walker-3-in-1</PRODUCT_URL>
+      <PRODUCT_NAME>הליכון מודולרי 3 ב-1 מקצף</PRODUCT_NAME>
+      <MODEL>הליכון מודולרי 3 ב-1 מקצף</MODEL>
+      <DETAILS>הליכון מקצף רך שמלווה את הצעדים הראשונים, וכשהקטן גדל מפרקים אותו ובונים ממנו מריצה או שרפרף. מוצר אחד שמלווה אותו מהצעד הראשון ועד שהוא מטפס לבד. הליכון: ידיות לאחיזה וגלגלי קצף יציבים לדחיפה. מריצה: הקופסה משמשת להובלת הצעצועים האהובים. שרפרף: להגיע לכיור, למיטה או לחלון. בונים ומפרקים בלי כלים ובלי ברגים. הקצף רך וקל, לא שורט רצפה ולא מרעיש. לגילאי חצי שנה עד 3.מה בקופסה3 בלוקים מקצף · 12 יתדות חיבור · 4 גלגלי קצף · קופסה</DETAILS>
+      <CATALOG_NUMBER>MODWALK-3IN1</CATALOG_NUMBER>
+      <PRODUCTCODE>50813205119234</PRODUCTCODE>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>449.00</PRICE>
+      <SHIPMENT_COST>0</SHIPMENT_COST>
+      <DELIVERY_TIME>5</DELIVERY_TIME>
+      <MANUFACTURER>Modino</MANUFACTURER>
+      <WARRANTY></WARRANTY>
+      <IMAGE>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/walker-01-hero.jpg?v=1792486525</IMAGE>
+      <TAX>18</TAX>
+      <CATEGORY_ID>496950149378</CATEGORY_ID>
+      <CATEGORY_NAME>זכאי להנחה (מערכת - לא למחוק)</CATEGORY_NAME>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>https://modino.co.il/products/modular-foam-set-young-builder</PRODUCT_URL>
+      <PRODUCT_NAME>סט בנייה מודולרי מקצף לילדים – בונה צעיר</PRODUCT_NAME>
+      <MODEL>סט בנייה מודולרי מקצף לילדים – בונה צעיר</MODEL>
+      <DETAILS>סט ההתחלה של בלוקי הקצף המודולריים. מהם הילדים בונים בעצמם צעצועים בגודל אמיתי: נדנדה, קורקינט זחילה, רכב לרכיבה ועוד.בונים ומפרקים בלי כלים ובלי ברגים. כל הסטים מתחברים זה לזה, כך שאפשר להרחיב בהמשך עם בונה מתקדם או אדריכל ראשי.</DETAILS>
+      <CATALOG_NUMBER>MODFOAM-S</CATALOG_NUMBER>
+      <PRODUCTCODE>50813639426306</PRODUCTCODE>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>469.00</PRICE>
+      <SHIPMENT_COST>0</SHIPMENT_COST>
+      <DELIVERY_TIME>5</DELIVERY_TIME>
+      <MANUFACTURER>Modino</MANUFACTURER>
+      <WARRANTY></WARRANTY>
+      <IMAGE>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mf2-hero-small.jpg?v=1792483687</IMAGE>
+      <TAX>18</TAX>
+      <CATEGORY_ID>496950149378</CATEGORY_ID>
+      <CATEGORY_NAME>זכאי להנחה (מערכת - לא למחוק)</CATEGORY_NAME>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>https://modino.co.il/products/modular-foam-set-advanced-builder</PRODUCT_URL>
+      <PRODUCT_NAME>סט בנייה מודולרי מקצף לילדים – בונה מתקדם</PRODUCT_NAME>
+      <MODEL>סט בנייה מודולרי מקצף לילדים – בונה מתקדם</MODEL>
+      <DETAILS>הסט האמצעי של בלוקי הקצף המודולריים. יותר בלוקים, יותר אפשרויות: נדנדה, רכב לרכיבה, כיסא, מסלול איזון ועוד.בונים ומפרקים בלי כלים ובלי ברגים. כל הסטים מתחברים זה לזה, כך שאפשר להרחיב בכל שלב.</DETAILS>
+      <CATALOG_NUMBER>MODFOAM-M</CATALOG_NUMBER>
+      <PRODUCTCODE>50813640966402</PRODUCTCODE>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>549.00</PRICE>
+      <SHIPMENT_COST>0</SHIPMENT_COST>
+      <DELIVERY_TIME>5</DELIVERY_TIME>
+      <MANUFACTURER>Modino</MANUFACTURER>
+      <WARRANTY></WARRANTY>
+      <IMAGE>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mf2-hero-medium.jpg?v=1792483687</IMAGE>
+      <TAX>18</TAX>
+      <CATEGORY_ID>496950149378</CATEGORY_ID>
+      <CATEGORY_NAME>זכאי להנחה (מערכת - לא למחוק)</CATEGORY_NAME>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>https://modino.co.il/products/modular-foam-set-chief-architect</PRODUCT_URL>
+      <PRODUCT_NAME>סט בנייה מודולרי מקצף לילדים – אדריכל ראשי</PRODUCT_NAME>
+      <MODEL>סט בנייה מודולרי מקצף לילדים – אדריכל ראשי</MODEL>
+      <DETAILS>הסט הגדול והמלא של בלוקי הקצף המודולריים, עם גלגלי קצף גדולים למכוניות. מהם בונים מכונית לרכיבה, נדנדה, מסלול מכשולים, שולחן וכיסאות ועוד.בונים ומפרקים בלי כלים ובלי ברגים. מספיק בלוקים שגם שני ילדים יבנו יחד.</DETAILS>
+      <CATALOG_NUMBER>MODFOAM-L</CATALOG_NUMBER>
+      <PRODUCTCODE>50813641031938</PRODUCTCODE>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>799.00</PRICE>
+      <SHIPMENT_COST>0</SHIPMENT_COST>
+      <DELIVERY_TIME>5</DELIVERY_TIME>
+      <MANUFACTURER>Modino</MANUFACTURER>
+      <WARRANTY></WARRANTY>
+      <IMAGE>https://cdn.shopify.com/s/files/1/0675/7947/8274/files/mf2-hero-large.jpg?v=1792483687</IMAGE>
+      <TAX>18</TAX>
+      <CATEGORY_ID>496950149378</CATEGORY_ID>
+      <CATEGORY_NAME>זכאי להנחה (מערכת - לא למחוק)</CATEGORY_NAME>
     </PRODUCT>
   </PRODUCTS>
 </STORE>
